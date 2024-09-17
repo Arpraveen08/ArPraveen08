@@ -1,4 +1,5 @@
- 👋  Hi, I'm B Praveen Kumar
+
+👋  Hi, I'm B Praveen Kumar
 👀 I’m interested in Website Development
 🌱 I’m currently working as a frontend developer
 💞️ I’m looking to collaborate on react projects
